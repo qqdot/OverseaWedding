@@ -30,7 +30,7 @@
                                         <rect key="frame" x="0.0" y="0.0" width="414" height="88"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Zyq-tl-VF5" id="ey9-hG-AAU">
-                                            <rect key="frame" x="0.0" y="0.0" width="381" height="87"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="381" height="88"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="艾葵雅教堂" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7uh-rZ-iVp">
@@ -54,7 +54,7 @@
                                         <rect key="frame" x="0.0" y="88" width="414" height="88"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="LIn-10-mfz" id="KcF-T1-1ao">
-                                            <rect key="frame" x="0.0" y="0.0" width="381" height="87"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="381" height="88"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="克莉絲蒂教堂" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VWb-am-iB2">
@@ -78,7 +78,7 @@
                                         <rect key="frame" x="0.0" y="176" width="414" height="88"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Hhs-dU-59Y" id="vD7-Ue-e7H">
-                                            <rect key="frame" x="0.0" y="0.0" width="381" height="87"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="381" height="88"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="海之教會" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Jtr-qp-vdx">
@@ -99,7 +99,7 @@
                                         <rect key="frame" x="0.0" y="264" width="414" height="88"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="uA5-Rv-K73" id="BMU-gP-gwt">
-                                            <rect key="frame" x="0.0" y="0.0" width="381" height="87"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="381" height="88"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="費莉西亞教堂" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="h2E-ws-38m">
@@ -120,7 +120,7 @@
                                         <rect key="frame" x="0.0" y="352" width="414" height="88"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="1mm-7n-eaE" id="w55-bg-QvO">
-                                            <rect key="frame" x="0.0" y="0.0" width="381" height="87"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="381" height="88"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="露梅爾教堂" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="b3i-3C-ACG">
@@ -141,7 +141,7 @@
                                         <rect key="frame" x="0.0" y="440" width="414" height="88"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="j0k-N8-lIX" id="IHP-JX-74k">
-                                            <rect key="frame" x="0.0" y="0.0" width="381" height="87"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="381" height="88"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="麗貝菈教堂" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jyt-iY-J3Z">
@@ -162,7 +162,7 @@
                                         <rect key="frame" x="0.0" y="528" width="414" height="88"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="umX-dW-klU" id="5uz-hx-GAH">
-                                            <rect key="frame" x="0.0" y="0.0" width="381" height="87"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="381" height="88"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="葛洛麗教堂" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="M0t-j4-MZd">
@@ -272,7 +272,7 @@
                                         <rect key="frame" x="0.0" y="0.0" width="414" height="88"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="WKf-0M-Loc" id="rv9-c3-pl3">
-                                            <rect key="frame" x="0.0" y="0.0" width="381" height="87"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="381" height="88"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="白色羽翼" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="svi-Na-laN">
@@ -296,7 +296,7 @@
                                         <rect key="frame" x="0.0" y="88" width="414" height="88"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="qUA-mV-Fx1" id="hAW-92-uvb">
-                                            <rect key="frame" x="0.0" y="0.0" width="381" height="87"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="381" height="88"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="水晶教堂" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CRe-jh-fXj">
@@ -317,7 +317,7 @@
                                         <rect key="frame" x="0.0" y="176" width="414" height="88"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="7LU-dq-zle" id="ukV-Mi-ga6">
-                                            <rect key="frame" x="0.0" y="0.0" width="381" height="87"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="381" height="88"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="幸福藍星" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="L0g-ev-dJ1">
@@ -338,7 +338,7 @@
                                         <rect key="frame" x="0.0" y="264" width="414" height="88"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="e56-Xa-oFm" id="9S6-Ng-vUB">
-                                            <rect key="frame" x="0.0" y="0.0" width="381" height="87"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="381" height="88"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="公主教堂" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sBr-tY-dpH">
@@ -359,7 +359,7 @@
                                         <rect key="frame" x="0.0" y="352" width="414" height="88"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Nl9-pt-lwy" id="wxR-aR-aDa">
-                                            <rect key="frame" x="0.0" y="0.0" width="381" height="87"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="381" height="88"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="彩虹教堂" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pfi-cG-am7">
@@ -380,7 +380,7 @@
                                         <rect key="frame" x="0.0" y="440" width="414" height="88"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Ch0-5O-fLo" id="iYT-Io-Hkz">
-                                            <rect key="frame" x="0.0" y="0.0" width="381" height="87"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="381" height="88"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="聖普羅帕斯教堂" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pQV-Ch-2Vq">
@@ -401,7 +401,7 @@
                                         <rect key="frame" x="0.0" y="528" width="414" height="88"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="qKZ-V2-Hqk" id="QZU-CV-AvV">
-                                            <rect key="frame" x="0.0" y="0.0" width="381" height="87"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="381" height="88"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="聖瑪利亞教堂" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5yK-lb-wFh">
@@ -464,6 +464,7 @@
                     <connections>
                         <segue destination="iox-Ue-EFS" kind="relationship" relationship="viewControllers" id="h3d-8I-nCR"/>
                         <segue destination="byW-Bs-7vj" kind="relationship" relationship="viewControllers" id="eSf-Bw-YbH"/>
+                        <segue destination="WF2-jc-TJS" kind="relationship" relationship="viewControllers" id="xWL-tA-Qgo"/>
                     </connections>
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4mQ-0A-eb0" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -488,6 +489,121 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="gI2-Gy-DMD" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="3725" y="909"/>
+        </scene>
+        <!--搜尋-->
+        <scene sceneID="VcV-t3-k1I">
+            <objects>
+                <navigationController title="搜尋" id="WF2-jc-TJS" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="搜尋" image="search-7" id="mLo-ut-rGQ"/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="jHd-Qe-BAO">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="5Mm-jG-gTY" kind="relationship" relationship="rootViewController" id="sZD-0m-Gaz"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="wxI-D2-lsb" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3799" y="1690"/>
+        </scene>
+        <!--Wedding View Controller-->
+        <scene sceneID="O9e-E4-AiN">
+            <objects>
+                <viewController id="5Mm-jG-gTY" customClass="WeddingViewController" customModule="oversea_wedding" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="slS-uD-xfC"/>
+                        <viewControllerLayoutGuide type="bottom" id="P4g-3H-CZc"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="cLH-As-ySy">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="地點" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WaL-GT-O1i">
+                                <rect key="frame" x="67" y="93" width="42" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="參加人數" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eOw-bP-IbM">
+                                <rect key="frame" x="38" y="339" width="78" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="Nts-KL-dJI">
+                                <rect key="frame" x="153" y="89" width="121" height="29"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <segments>
+                                    <segment title="沖繩"/>
+                                    <segment title="關島"/>
+                                </segments>
+                            </segmentedControl>
+                            <imageView userInteractionEnabled="NO" alpha="0.55000000000000004" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="images" translatesAutoresizingMaskIntoConstraints="NO" id="9ue-4Q-nMj">
+                                <rect key="frame" x="0.0" y="469" width="414" height="218"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.0" green="0.50196081400000003" blue="1" alpha="0.6119612069" colorSpace="calibratedRGB"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VhB-3x-0sv">
+                                <rect key="frame" x="334" y="369" width="60" height="60"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" backgroundImage="Search-button"/>
+                                <connections>
+                                    <action selector="searchButton:" destination="5Mm-jG-gTY" eventType="touchUpInside" id="Yen-xb-zgi"/>
+                                </connections>
+                            </button>
+                            <slider opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="30" minValue="2" maxValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="FRd-c4-KoP">
+                                <rect key="frame" x="144" y="339" width="191" height="31"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <connections>
+                                    <action selector="adjustPeopleAction:" destination="5Mm-jG-gTY" eventType="valueChanged" id="o1M-WE-DMI"/>
+                                </connections>
+                            </slider>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="30" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kSP-Fd-IGQ">
+                                <rect key="frame" x="230" y="321" width="37" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="價位" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vfG-Ex-InJ">
+                                <rect key="frame" x="67" y="212" width="42" height="26"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <pickerView contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="U9h-k7-YtC">
+                                <rect key="frame" x="32" y="117" width="414" height="216"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                                <connections>
+                                    <outlet property="delegate" destination="5Mm-jG-gTY" id="yRV-Pd-z3R"/>
+                                </connections>
+                            </pickerView>
+                            <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6ga-pf-fvZ">
+                                <rect key="frame" x="146" y="397" width="180" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="ebI-Av-BHr"/>
+                    <connections>
+                        <outlet property="locationSegment" destination="Nts-KL-dJI" id="l2U-0L-tJF"/>
+                        <outlet property="peopleLabel" destination="kSP-Fd-IGQ" id="lV0-vo-KOa"/>
+                        <outlet property="peopleSlider" destination="FRd-c4-KoP" id="LQx-ti-RfH"/>
+                        <outlet property="pickerPrice" destination="U9h-k7-YtC" id="ECk-6l-9gi"/>
+                        <outlet property="resultLabel" destination="6ga-pf-fvZ" id="wHa-Yz-WHU"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="t1Y-hU-2c5" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="4615.9420289855079" y="1696.467391304348"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="aKY-0O-t2j">
@@ -614,7 +730,10 @@
         </scene>
     </scenes>
     <resources>
+        <image name="Search-button" width="500" height="500"/>
         <image name="earth-america-7" width="30" height="30"/>
+        <image name="images" width="275" height="183"/>
+        <image name="search-7" width="30" height="30"/>
         <image name="克莉絲蒂教堂" width="274" height="267"/>
         <image name="公主教堂" width="346" height="354"/>
         <image name="幸福藍星" width="377" height="351"/>
